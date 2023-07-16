@@ -1,6 +1,6 @@
-# Split-Check
+# Split-Expense
 
-Split-Check is a desktop web application that allows users to split expenses among a group of people. It simplifies the process of tracking and managing expenses within a group, making it easier for individuals to keep a record of their expenses.
+Split-Expense is a desktop web application that allows users to split expenses among a group of people. It simplifies the process of tracking and managing expenses within a group, making it easier for individuals to keep a record of their expenses.
 
 ## Key Features
 
@@ -10,7 +10,7 @@ Split-Check is a desktop web application that allows users to split expenses amo
 - **Profile Updation**: Users can update their profile information, ensuring their personal details are up to date.
 - **Create Group**: Users can create groups and add members to those groups, facilitating expense splitting among the group members.
 - **Add Expenses and Settle Expenses**: Users can add expenses incurred within the group and easily split them among the members. The application provides features for accurately calculating and dividing expenses.
-- **Record of Payments**: Split-Check maintains a record of all the payments made within the group, allowing users to keep track of settled expenses.
+- **Record of Payments**: Split-Expense maintains a record of all the payments made within the group, allowing users to keep track of settled expenses.
 
 ## Technologies Used
 
